@@ -9,4 +9,6 @@ let age: number = 20;
 // tsc --init
 // creates tsconfig.json file
 
-
+if (age < 50)
+  age += 10;  
+  console.log(age);

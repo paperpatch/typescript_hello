@@ -1,1 +1,3 @@
-# typescript_hello
+# TypeScript Hello
+
+Ignore this repository. Going through tutorial to learn TypeScript.
